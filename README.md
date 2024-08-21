@@ -16,6 +16,7 @@ During this course, I created a scene using 3D shapes and lighting using OpenGL.
 The skills I have learned during the course will be valuable for my future courses. The knowledge I gained from coding with vectors, input devices, and different light sources will assist me in creating scenes throughout my educational journey. Professionally, I believe this class will help me pursue a career in graphics design, such as video game development. During this course, I gained a deeper respect for video game design. The lighting aspect of this course presented the most difficulty for me. I can only imagine that creating an entire 3D game must be challenging.
 
 
+![Screenshot (123)](https://github.com/user-attachments/assets/4d8eeb2d-b0f9-4205-9009-d1147f7035b7)
 
 
 
