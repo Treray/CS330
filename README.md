@@ -1,4 +1,5 @@
 CS-330 Computer Graphics and Visualization
+
 During this course, I created a scene using 3D shapes and lighting with OpenGL. Users can navigate this scene with the camera using Keyboard and mouse input devices.  
 
 How do I approach designing software?
