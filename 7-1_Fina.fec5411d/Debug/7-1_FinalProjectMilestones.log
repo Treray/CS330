@@ -1,0 +1,13 @@
+﻿  MainCode.cpp
+  SceneManager.cpp
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+  ViewManager.cpp
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(130,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(131,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(135,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(136,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(137,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(138,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(298,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\Trema\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
